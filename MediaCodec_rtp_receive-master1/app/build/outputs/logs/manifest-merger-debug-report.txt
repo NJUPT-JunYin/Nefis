@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\953aad65017070ebf09f908604a28340\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\c3daa716b08aa82d19eb007b03813fdb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\477f1474a383b9a384d7928c0b57264f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\1c98dd4a8d2979419a2978517b0566cc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\61a8d1dbaddcef37888ac8671c008f0c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\489f5fced1f0937034d4a3ea43be228c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\ebcab2d1eafeb72afa7ff77a098bc0ce\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\51b5f5b6c8bba43b63002fb154f049a1\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:6:9-84
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:6:26-82
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:10:2-62
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:10:19-59
+uses-feature#android.hardware.camera
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:14:5-82
+	android:required
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:14:56-79
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:14:19-55
+application
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:21:5-36:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\953aad65017070ebf09f908604a28340\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\953aad65017070ebf09f908604a28340\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\c3daa716b08aa82d19eb007b03813fdb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\c3daa716b08aa82d19eb007b03813fdb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\477f1474a383b9a384d7928c0b57264f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\477f1474a383b9a384d7928c0b57264f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\1c98dd4a8d2979419a2978517b0566cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\1c98dd4a8d2979419a2978517b0566cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\61a8d1dbaddcef37888ac8671c008f0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\61a8d1dbaddcef37888ac8671c008f0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\489f5fced1f0937034d4a3ea43be228c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\489f5fced1f0937034d4a3ea43be228c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\ebcab2d1eafeb72afa7ff77a098bc0ce\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\ebcab2d1eafeb72afa7ff77a098bc0ce\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\51b5f5b6c8bba43b63002fb154f049a1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\51b5f5b6c8bba43b63002fb154f049a1\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:22:9-31
+activity#com.receive.decode.MainActivity
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:30:13-50
+	android:label
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:28:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\953aad65017070ebf09f908604a28340\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\953aad65017070ebf09f908604a28340\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\c3daa716b08aa82d19eb007b03813fdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\c3daa716b08aa82d19eb007b03813fdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\477f1474a383b9a384d7928c0b57264f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\477f1474a383b9a384d7928c0b57264f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\1c98dd4a8d2979419a2978517b0566cc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\1c98dd4a8d2979419a2978517b0566cc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\61a8d1dbaddcef37888ac8671c008f0c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\61a8d1dbaddcef37888ac8671c008f0c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\489f5fced1f0937034d4a3ea43be228c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\489f5fced1f0937034d4a3ea43be228c\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\ebcab2d1eafeb72afa7ff77a098bc0ce\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\ebcab2d1eafeb72afa7ff77a098bc0ce\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\51b5f5b6c8bba43b63002fb154f049a1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\51b5f5b6c8bba43b63002fb154f049a1\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hl\Desktop\APP16\MediaCodec_rtp_receive-master1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\953aad65017070ebf09f908604a28340\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\953aad65017070ebf09f908604a28340\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\c3daa716b08aa82d19eb007b03813fdb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\c3daa716b08aa82d19eb007b03813fdb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\477f1474a383b9a384d7928c0b57264f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\477f1474a383b9a384d7928c0b57264f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\1c98dd4a8d2979419a2978517b0566cc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\1c98dd4a8d2979419a2978517b0566cc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\61a8d1dbaddcef37888ac8671c008f0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\61a8d1dbaddcef37888ac8671c008f0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\489f5fced1f0937034d4a3ea43be228c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\489f5fced1f0937034d4a3ea43be228c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\ebcab2d1eafeb72afa7ff77a098bc0ce\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\ebcab2d1eafeb72afa7ff77a098bc0ce\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\51b5f5b6c8bba43b63002fb154f049a1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\51b5f5b6c8bba43b63002fb154f049a1\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\4a60e5d87c7933abff069f901f3a44d9\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hl\.gradle\caches\transforms-2\files-2.1\d485dc6e69c918fb9295a93e225a23cd\AndroidManifest.xml:26:13-58

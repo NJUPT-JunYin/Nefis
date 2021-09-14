@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\hl\\Desktop\\APP16\\MediaCodec_rtp_receive-master1\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\hl\\Desktop\\APP16\\MediaCodec_rtp_receive-master1\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "E:\\SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\hl\\Desktop\\APP16\\MediaCodec_rtp_receive-master1\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target native-lib",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\hl\\Desktop\\APP16\\MediaCodec_rtp_receive-master1\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libnative-lib.so"
+    }
+  }
+}
