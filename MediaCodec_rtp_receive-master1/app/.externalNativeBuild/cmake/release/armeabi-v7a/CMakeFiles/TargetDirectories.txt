@@ -1,3 +1,0 @@
-C:/Users/hl/Desktop/APP16/MediaCodec_rtp_receive-master1/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir
-C:/Users/hl/Desktop/APP16/MediaCodec_rtp_receive-master1/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/hl/Desktop/APP16/MediaCodec_rtp_receive-master1/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
